@@ -6,9 +6,9 @@
 
 A kernel-based root solution for Android devices, forked from [`tiann/KernelSU`](https://github.com/tiann/KernelSU), And transplanted the KernelPatch Module features from SukiSU Ultra, and also optimized them.
 
-[![Latest release](https://img.shields.io/github/v/release/Guxin12/NANSU?label=Release&logo=github)](https://github.com/Guxin12/NANSU/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/Guxin12/NanSU?label=Release&logo=github)](https://github.com/Guxin12/NanSU/releases/latest)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-orange.svg?logo=gnu)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
-[![GitHub License](https://img.shields.io/github/license/Guxin12/NANSU?logo=gnu)](/LICENSE)
+[![License](https://img.shields.io/github/license/Guxin12/NanSU?logo=gnu&label=License)](/LICENSE)
 
 
 ## Features
@@ -58,6 +58,16 @@ For information on reporting security vulnerabilities in KernelSU, see [SECURITY
 
 - Files under the `kernel` directory are [GPL-2.0-only](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html).
 - All other parts except the `kernel` directory are [GPL-3.0-or-later](https://www.gnu.org/licenses/gpl-3.0.html).
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=Guxin12/NanSU&type=timeline&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Guxin12/NanSU&type=timeline&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Guxin12/NanSU&type=timeline&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Guxin12/NanSU&type=timeline&legend=top-left" />
+ </picture>
+</a>
 
 ## Credits
 
